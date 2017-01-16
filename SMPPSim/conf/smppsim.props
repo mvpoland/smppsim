@@ -29,7 +29,7 @@ MESSAGE_STATE_CHECK_FREQUENCY=5000
 MAX_TIME_ENROUTE=10000
 
 # The minimum time to wait before generating a delivery receipt (ms)
-DELAY_DELIVERY_RECEIPTS_BY=0
+DELAY_DELIVERY_RECEIPTS_BY=200
 
 # Percentage of messages that change state each time we check (excluding expiry or messages being completely discarded due to age)
 # Requires an integer between 0 and 100
