@@ -2,6 +2,9 @@
 
 SMPP Simulator taken from [seleniumsoftware.com](http://www.seleniumsoftware.com/user-guide.htm)
 
+![screenshot](./screenshot.png)
+
+
 # How to
 
 You have two ways of running it:
